@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * Ruby version 5
 
-* System dependencies
+* System dependencies Ubu
 
 * Configuration
 
